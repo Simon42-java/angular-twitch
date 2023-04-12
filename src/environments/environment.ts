@@ -1,7 +1,7 @@
 const apiConfig = {
   clientId: '8ez2fd2pkscqb82wuel9kgefdufd3n',
   authUrl: 'https://id.twitch.tv/oauth2/authorize',
-  redirectUrl: 'https://angular-twitch-application.app/auth/authorize',
+  redirectUrl: 'https://angular-twitch-application.netlify.app/auth/authorize',
   baseUrl: 'https://api.twitch.tv/helix',
 };
 
